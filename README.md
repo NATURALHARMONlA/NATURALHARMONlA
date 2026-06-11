@@ -1,15 +1,14 @@
 
-<p align="center">
+<div align="center"> 
+<p align="center"> <img width="150" src="https://files.catbox.moe/qtadvj.png">
+
+<div align="center">
   
-<img src="https://files.catbox.moe/070xbg.webp">
-
-
-<div align="center"> 
+#### </sub>[RENTRY](https://rentry.co/starpkm)⠀⠀⠀   ⠀⠀⠀⠀[**新BOOK**](https://starpkmn.atabook.org/)⠀⠀⠀⠀⠀[**STRAWPAGE**](https://starpkmmn.straw.page/home1)</sub>
 
 <div align="center"> 
- 
-<sup>[**rentry**](https://rentry.co/starpkm)⠀⠀✦⠀⠀[**atabook**](https://starpkmn.atabook.org)⠀⠀✦⠀⠀[strawpage](https://starpkmn.straw.page)</sub></sup>
 
-<div align="center"> 
-  
-![](https://komarev.com/ghpvc/?username=cursed-speech&color=00709c&label=★)
+![](https://komarev.com/ghpvc/?username=NATURALHARMONlA&color=cbc35e&label=★&style=plastic&base=1820) 
+<div align="center">
+
+
